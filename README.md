@@ -28,7 +28,8 @@
 <br />
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumargudipalli&show_icons=true&locale=en&layout=compact" alt="kumargudipalli" /></p>
-
+<br/>
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumargudipalli&show_icons=true&locale=en" alt="kumargudipalli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumargudipalli&" alt="kumargudipalli" /></p>
