@@ -1,3 +1,5 @@
+<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+
 
 <h1 align="center">Hi 👋, I'm Kumar Gudipalli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
