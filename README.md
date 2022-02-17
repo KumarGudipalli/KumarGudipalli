@@ -4,7 +4,7 @@
 <br/>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Kumar Gudipalli</h1>
 <br/>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend Developer from India</h3>
 <h2>## 🙋‍♂️ About Me </h2>
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumargudipalli" alt="kumargudipalli" /></a> </p>
