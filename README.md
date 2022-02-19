@@ -7,11 +7,15 @@
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 <h2>## 🙋‍♂️ About Me </h2>
 <br/>
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumargudipalli" alt="kumargudipalli" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures, Algorithms and Mern stack.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at [https://kumargudipalli-murex.vercel.app/](https://kumargudipalli-murex.vercel.app/)
 
 - 📫 How to reach me **kumargudipalli97@gmail.com**
 
